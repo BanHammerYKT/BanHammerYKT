@@ -63,5 +63,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=banhammerykt&show_icons=true&theme=apprentice&locale=en&count_private=true&hide_title=true&hide=prs,stars&hide_border=true" alt="banhammerykt" height="120" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=banhammerykt&theme=apprentice&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="banhammerykt" height="120" />
+<img src="https://streak-stats.demolab.com?user=banhammerykt&theme=apprentice&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="120" />
 </p>
